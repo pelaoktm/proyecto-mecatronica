@@ -5,4 +5,4 @@ logra que tu perro aprenda a buscar una pelota, para posteriormente dejarla en u
 José Contreras -
 Martín Cvitanovic -
 Daniela Rodríguez -
-Vicente Silva -
+Vicente Silva
