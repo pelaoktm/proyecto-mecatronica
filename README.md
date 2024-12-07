@@ -1,0 +1,2 @@
+# proyecto-mecatronica
+GUAU alimentadora
